@@ -1,0 +1,2 @@
+2025-05-08 19:20:24,851 - trm_app - INFO - Ejecutando aplicación web en puerto 8501
+2025-05-08 19:20:24,851 - trm_app - ERROR - No se pudo importar Streamlit. Asegúrate de que esté instalado.
